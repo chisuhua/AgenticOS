@@ -4,3 +4,9 @@
 [submodule "runtime"]
 	path = runtime
 	url = git@github.com:chisuhua/AgenticDSL.git
+[submodule "memory"]
+	path = memory
+	url = git@github.com:chisuhua/AgenticMemory
+[submodule "knowledge"]
+	path = knowledge
+	url = git@github.com:chisuhua/AgenticKG
