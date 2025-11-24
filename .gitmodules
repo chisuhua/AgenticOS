@@ -1,0 +1,6 @@
+[submodule "inference"]
+	path = inference
+	url = git@github.com:chisuhua/AgenticInfer.git
+[submodule "runtime"]
+	path = runtime
+	url = git@github.com:chisuhua/AgenticDSL.git
